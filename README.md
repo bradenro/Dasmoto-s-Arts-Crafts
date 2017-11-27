@@ -1,2 +1,2 @@
 # Dasmoto-s-Arts-Crafts
-Final Project CSS
+This is the final project for the CSS section of my build a website from scratch course
